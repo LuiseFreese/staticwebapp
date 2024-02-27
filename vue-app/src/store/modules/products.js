@@ -31,7 +31,7 @@ const data = {
     {
       id: 50,
       name: '➕ Add a little spice: some pepper',
-      description: 'goes well with Kurkuma'
+      description: 'goes well with Kurkuma',
       quantity: 1,
     },
     {
