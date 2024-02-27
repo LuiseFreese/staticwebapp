@@ -7,7 +7,7 @@ const data = {
     {
       id: 10,
       name: '🫚 Ginger',
-      description: '1kg of preferably organic ginger, cut into slices that your blender can handle',
+      description: `1kg of preferably organic ginger, cut into slices that your blender can handle`,
       quantity: '1',
     },
     {
@@ -37,7 +37,7 @@ const data = {
     {
       id: 60,
       name: '🍯 Honey',
-      description: 'a few Tablespoons of honey will take away the bitterness of the Kurkuma',
+      description: `a few tablespoons of honey will take away the bitterness of the Kurkuma`,
       quantity: 1,
     },
   ],
